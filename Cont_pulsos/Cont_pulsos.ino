@@ -1,12 +1,12 @@
 
-//CONTADOR DE PULSOS DE UN VNTILADOR DE COMPUTADORA SIN ESCOBILLAS
+//CONTADOR DE PULSOS DE UN VENTILADOR DE COMPUTADORA SIN ESCOBILLAS
 
 const int hardwareCounterPin = 5;   // Entrada del pin para el Timer(Contador)
 int P_entrada = 8;     //Pines utilzados para mostrar la lectura y  
 int P_salida = 9;      //escritura del arduino en cuanto a la señal
 int Valor = 0;         
 int pin_c = 12;        //Pin utilizado para saber si el contador funciona bien
-int RPM =0;            //Variable para almacenar el valor de las RPM
+int RPS =0;            //Variable para almacenar el valor de las RPM
 
 const int samplePeriod = 1000;   // muestra de tiempo (1s)
 unsigned int count;              //Variable del contador
