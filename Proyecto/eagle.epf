@@ -137,7 +137,6 @@ UsedLibrary="C:/EAGLE-7.1.0/lbr/csr.lbr"
 UsedLibrary="C:/EAGLE-7.1.0/lbr/cypress.lbr"
 UsedLibrary="C:/EAGLE-7.1.0/lbr/davicom.lbr"
 UsedLibrary="C:/EAGLE-7.1.0/lbr/dc-dc-converter.lbr"
-UsedLibrary="C:/EAGLE-7.1.0/lbr/demostration-inst.lbr"
 UsedLibrary="C:/EAGLE-7.1.0/lbr/dimensions.lbr"
 UsedLibrary="C:/EAGLE-7.1.0/lbr/diode.lbr"
 UsedLibrary="C:/EAGLE-7.1.0/lbr/discrete.lbr"
@@ -350,10 +349,10 @@ UsedLibrary="C:/EAGLE-7.1.0/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="375 165 974 564"
-State=2
+Loc="146 54 744 453"
+State=1
 Number=0
 
 [Desktop]
-Screen="1366 768"
+Screen="1024 600"
 Window="Win_1"
